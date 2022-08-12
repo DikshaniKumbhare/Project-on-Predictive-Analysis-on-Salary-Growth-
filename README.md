@@ -1,21 +1,20 @@
-# Project-on-Predictive-Analysis-on-Salary-Growth-
+#Project-on-Predictive-Analysis-on-Salary-Growth-
 
 
-#Aim:
+Aim:
 
 To analyse EMP_dataset to find out whose salary is increased and predict which employee get hike in salary by using machine learning algorithm
 
 
 
-#Objectives:
+Objectives:
 
 Study the factors which affect the salary of employee. Find out which employee performance meet the most criteria. Find out the number of departments. 
 
 
 
 
-#Methodology:
-
+Methodology:
 1. Data collection:Collected the EMP_dataset from Kaggle.
 2. Exploratory Data Analyis: After cleaning process we study the descriptive statistics, visualize data based on how they are related to each other.
 3. Model Development: In this vary stage we undergo the use of machine learning algorithm to model and compare which model is best to fit.
@@ -23,8 +22,7 @@ Study the factors which affect the salary of employee. Find out which employee p
 
 
 
-#Tools & Technology used:
-
+Tools & Technology used:
 1. Python and Tableau
 2. Jupyter Notebook
 3. Python libraries: pandas, matplotlib, sklearn,seaborn,numpy
@@ -32,7 +30,7 @@ Study the factors which affect the salary of employee. Find out which employee p
 
 
 
-#Conclusion:
+Conclusion:
 1. We see that the number of females exceeds the number of males
 2. We found that in the Production department, the number of women is more than the number of men and vice versa in the IT/IS department.
 3. As we can see here that 28% of employees are very likely to leave their job for several different reasons.The reason that has the highest percentage of employees likely to quit their job is because they are unhappy.
